@@ -1,0 +1,15 @@
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.dll
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\NinjaDomain.DataModel.pdb
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\EntityFramework.dll
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.dll
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\NinjaDomain.Classes.pdb
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\EntityFramework.xml
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csprojResolveAssemblyReference.cache
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.Initial.resources
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddBirthdayToNinja.resources
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.Migrations.AddModificationHistoryInterface.resources
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.csproj.GenerateResource.Cache
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.dll
+C:\Users\fabio\Desktop\entity-framework-6-getting-started\4-entity-framework-6-getting-started-m4-exercise-files\Distribution\NinjaDomain.DataModel\obj\Debug\NinjaDomain.DataModel.pdb
